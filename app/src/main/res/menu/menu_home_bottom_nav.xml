@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_kaizen"
+        android:icon="@drawable/item_tab_1_selector"
+        android:title="Xếp hạng và Tin tức"/>
+
+    <item
+        android:id="@+id/menu_work"
+        android:icon="@drawable/item_tab_2_selector"
+        android:title="Bản đồ"/>
+
+    <item
+        android:id="@+id/menu_message"
+        android:icon="@drawable/item_tab_3_selector"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/menu_notification"
+        android:icon="@drawable/item_tab_4_selector"
+        android:title="@string/notification"/>
+
+    <item
+        android:id="@+id/menu_utility"
+        android:icon="@drawable/item_tab_5_selector"
+        android:title="@string/setting"/>
+</menu>

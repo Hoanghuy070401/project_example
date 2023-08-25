@@ -1,0 +1,12 @@
+include ':app'
+include ':library:base'
+include ':library:widget'
+include ':library:AXEmojiView'
+include ':library:AXEmojiView-FacebookProvider'
+include ':library:selector'
+include ':library:media-slider'
+include ':library:readmoreoption'
+
+//DynamicFeatures module
+include ':features'
+include ':features:homepage'

@@ -1,0 +1,14 @@
+
+ikotlin:S100	"RRename function "API_LOGIN" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(Ø–ó
+jkotlin:S100"SRename function "API_LOGOUT" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(–Ùò±
+tkotlin:S100"XRename function "API_GET_SESSION" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(¼«³íûÿÿÿÿ
+nkotlin:S100"WRename function "API_GET_CONFIG" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(¿—ü†
+okotlin:S100"XRename function "API_GET_SETTING" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ÿ™Œ¸
+tkotlin:S100"XRename function "API_GET_VERSION" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(¾¾ß€şÿÿÿÿ
+lkotlin:S100!"VRename function "API_CHECK_OTP" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(³«»"
+skotlin:S100%"\Rename function "API_FORGOT_PASSWORD" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(˜‰„Š
+rkotlin:S100)"\Rename function "API_REGISTER_DEVICE" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(Ùüœ:
+zkotlin:S100-"cRename function "API_VERIFY_CHANGE_PASSWORD" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(Îæ
+xkotlin:S1001"\Rename function "API_CHANGE_PASSWORD" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(…òàÜüÿÿÿÿ
+vkotlin:S1005"ZRename function "API_CHECK_OTP_NEW" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ÿû´úÿÿÿÿ
+xkotlin:S1008"aRename function "API_UPDATE_PROFILE_STAFF" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ÍŸîÍ
